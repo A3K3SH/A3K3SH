@@ -19,13 +19,5 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:** HTML, CSS, JavaScript, React  
-**Web3:** Blockchain basics, dApps  
-**Tools:** Git, GitHub, VS Code
-
----
-
 ⭐ *Pinned projects below showcase my best work*
 
