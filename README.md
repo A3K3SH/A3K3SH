@@ -17,6 +17,10 @@
 - Project-driven learner focused on **performance & UX**
 - Open to **Frontend / Web Developer / Web3** roles
 
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,redux,prisma,nodejs,express,mongodb,postgres,supabase,postman,bun,pnpm,vercel,git&perline=8)](https://ratneshxc.vercel.app)
+
 ---
 
 ⭐ *Pinned projects below showcase my best work*
