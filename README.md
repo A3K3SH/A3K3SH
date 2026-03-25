@@ -2,9 +2,9 @@
 <h3 align="center">Frontend Developer | Web3 Enthusiast</h3>
 
 <p align="center">
-  🌐 <a href="https://www.aakashswainportfolio.live/"_blank"><b>View Portfolio</b></a> •
-  💼 <a href="https://www.linkedin.com/in/aakashswain18/" target="_blank"><b>LinkedIn</b></a> •
-  📩 <a href="mailto:swainaakash18@gmail.com"><b>Email</b></a>
+[![Get in touch](https://skillicons.dev/icons?i=twitter)](https://x.com/swaincreate)
+[![Get in touch](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aakashswain18/)
+[![Get in touch](https://skillicons.dev/icons?i=gmail)](mailto:swainaakash18@gmail.com)
 </p>
 
 ---
