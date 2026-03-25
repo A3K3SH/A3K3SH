@@ -15,7 +15,7 @@
 - Strong in **HTML, CSS, JavaScript, React**
 - Exploring **Web3 & Blockchain fundamentals**
 - Project-driven learner focused on **performance & UX**
-- Open to **Frontend / Web Developer / Web3**roles
+- Open to **Frontend / Web Developer / Web3** roles
 
 ---
 
