@@ -5,8 +5,8 @@
   <td>
   <div align="center"><br/>
   <h3>Frontend Developer – WEB3/AI – FR/EN</h3>
-  <a href="https://fvukelic.com">Visit my Portfolio</a> ››
-  <a href="mailto:fvukelic@proton.me">Get in touch</a> ››
+  <a href="https://www.aakashswainportfolio.live/">Visit my Portfolio</a> ››
+  <a href="mailto:swainaaikash18@gmail.com">Get in touch</a> ››
   <a href="https://calendly.com/fvukelic/meeting">Book a call</a>
 </div> <br/>
     <p><strong>🎨 Frontend</strong></p>
