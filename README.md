@@ -7,7 +7,7 @@
   <h3>Frontend Developer – WEB3/AI – FR/EN</h3>
   <a href="https://www.aakashswainportfolio.live/">Visit my Portfolio</a> ››
   <a href="mailto:swainaaikash18@gmail.com">Get in touch</a> ››
-  <a href="https://calendly.com/fvukelic/meeting">Book a call</a>
+  <a href="https://calendly.com/aakashswain18/30min">Book a call</a>
 </div> <br/>
     <p><strong>🎨 Frontend</strong></p>
     <ul>
