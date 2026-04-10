@@ -24,6 +24,13 @@
   <li><strong>ORMs:</strong> Prisma, Drizzle</li>
   <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, [...]</li>
 </ul>
+      <p><strong>⚙ Backend</strong></p>
+<ul>
+  <li><strong>Environments & Runtimes:</strong> Node.js, Express, Next.js</li>
+  <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
+  <li><strong>ORMs:</strong> Prisma, Drizzle</li>
+  <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, [...]</li>
+</ul>
     <p><strong>📈 Marketing</strong></p>
 <ul>
   <li><strong>Analytics & Insights:</strong> PostHog, Google Analytics</li>
