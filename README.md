@@ -24,12 +24,12 @@
   <li><strong>ORMs:</strong> Prisma, Drizzle</li>
   <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, [...]</li>
 </ul>
-      <p><strong>⚙ Backend</strong></p>
+      <p><strong>⚙ Web3</strong></p>
 <ul>
-  <li><strong>Environments & Runtimes:</strong> Node.js, Express, Next.js</li>
-  <li><strong>Databases:</strong> MongoDB, Supabase, Postgres, Neon</li>
-  <li><strong>ORMs:</strong> Prisma, Drizzle</li>
-  <li><strong>Services:</strong> Stripe, Sanity, Firebase, Appwrite, Cloudinary, [...]</li>
+  <li><strong>Blockchain:</strong> Ethereum, Polygon, Solana (basic)</li>
+  <li><strong>Smart Contracts:</strong> Solidity, Hardhat</li>
+  <li><strong>Libraries & Tools:</strong> Ethers.js, Web3.js, Wagmi, Viem</li>
+  <li><strong>Wallet Integration:</strong> MetaMask, WalletConnect</li>
 </ul>
     <p><strong>📈 Marketing</strong></p>
 <ul>
