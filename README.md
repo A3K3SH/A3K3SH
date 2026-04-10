@@ -1,6 +1,6 @@
 <table align="center">
     <td>
-    <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
+    <a href="https://www.aakashswainportfolio.live/" title="Visit my portfolio"><img src="https://i.postimg.cc/Hs3ghRR5/stack.jpg"/></a>
   </td>
   <td>
   <div align="center"><br/>
@@ -46,11 +46,11 @@
   <li><strong>Hosting:</strong> Hostinger, Vercel, Netlify, Coolify</li>
   <li><strong>Media:</strong> Figma, Affinity, DaVinci Resolve, Thumbnails</li>
   <li><strong>Operations:</strong> Project Management, Notion, Slack, SOPs</li>
-<a href="https://fvukelic.com"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" /></a>
+<a href="https://www.aakashswainportfolio.live/"><img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 400px; height:1px" /></a>
 </ul><br/>
   </td>
 </table>
 <div align="center">
-  <a href="https://fvukelic.com" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
+  <a href="https://www.aakashswainportfolio.live/" title="Visit my portfolio"><img src="https://i.postimg.cc/ncJ7vwqH/footer.gif"/></a>
 </div>
 
